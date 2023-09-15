@@ -34,8 +34,8 @@ function App() {
             <button>Log in</button>
           </form>
           <div className='bottom'>
-            <p>Forget your password</p>
-            <a href="/">Reset your password</a>
+            <p>Forget your password?</p>
+            <a href='/'>Reset Password</a>
           </div>
           <p className='create'>Create account</p>
           <div className='theme-toggle'>
